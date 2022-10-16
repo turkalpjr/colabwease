@@ -1,4 +1,4 @@
-Ulke,Cinsiyet,Tedavi_Turu,Fiyat_(Eur),Basvuru_Kanalı,Bizim_ilk_Tepki_Suremiz_(sn),Musterinin_ilk_Tepki_Suresi_(sn),Musterinin_ilk_Mesaj_Uzunlugu_(harf_sayisi),Satis_Oldu_Mu
+Ulke,Cinsiyet,Tedavi_Turu,Fiyat_(Eur),Basvuru_Kanali,Bizim_ilk_Tepki_Suremiz_(sn),Musterinin_ilk_Tepki_Suresi_(sn),Musterinin_ilk_Mesaj_Uzunlugu_(harf_sayisi),Satis_Oldu_Mu
 Almanya,Kadın,Diş,2500,Form,100,150,20,Hayır
 Almanya,Kadın,Diş,2500,Form,100,200,30,Evet
 Almanya,Kadın,Diş,2500,Whatsapp,100,500,30,Hayır
